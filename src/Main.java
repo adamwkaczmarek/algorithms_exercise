@@ -72,9 +72,13 @@ public class Main {
 //        System.out.println(solution_ex1_2.solution(A));
 
        // int[]A={4,3,4,4,4,2};
-        int[]A={4,4,4,4,4,2};
-        equiLeader.Solution solution8_1=new equiLeader.Solution();
-        System.out.println(solution8_1.solution(A));
+//        int[]A={4,4,4,4,4,2};
+//        equiLeader.Solution solution8_1=new equiLeader.Solution();
+//        System.out.println(solution8_1.solution(A));
+
+        int[]A={3,4,3,2,3,-1,3,3};
+        dominator.Solution solution8_2=new dominator.Solution();
+        System.out.println(solution8_2.solution(A));
 
 
         System.out.print("***********END**********");
