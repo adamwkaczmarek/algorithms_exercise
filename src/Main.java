@@ -57,10 +57,24 @@ public class Main {
 //          brackets.Solution solution7_1=new brackets.Solution();
 //          System.out.println(solution7_1.solution(str));
 
-        int[]A={4,3,2,1,5};
-        int[]B={0,1,0,1,0};
-        fish.Solution solution7_2= new fish.Solution();
-        System.out.println(solution7_2.solution(A,B));
+//        int[]A={4,3,2,1,5};
+//        int[]B={0,1,0,1,0};
+//        fish.Solution solution7_2= new fish.Solution();
+//        System.out.println(solution7_2.solution(A,B));
+
+//        exams.leehom59.task1.Solution solution_ex1_1=new exams.leehom59.task1.Solution();
+//        System.out.println(solution_ex1_1.solution(-4, 10));
+
+//        int[]A={1,5,3,3,7};
+//        int[]A={1,3,5,3,4};
+      //   int[]A={1,3,5};
+//        exams.leehom59.task2.Solution solution_ex1_2= new exams.leehom59.task2.Solution();
+//        System.out.println(solution_ex1_2.solution(A));
+
+       // int[]A={4,3,4,4,4,2};
+        int[]A={4,4,4,4,4,2};
+        equiLeader.Solution solution8_1=new equiLeader.Solution();
+        System.out.println(solution8_1.solution(A));
 
 
         System.out.print("***********END**********");
